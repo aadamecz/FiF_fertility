@@ -1,6 +1,6 @@
 This folder contain the Online Appendix and a Stata replication package of 'Beyond the Degree: Fertility Outcomes of ‘First in Family’ Graduates' by Anna Adamecz, Anna Lovász and Sunčica Vujić.
 
-First working paper: https://www.iza.org/publications/dp/17216/beyond-the-degree-fertility-outcomes-of-first-in-family-graduates (Aug 2024)
+First working paper: Anna Adamecz, Anna Lovász and Suncica Vujic: Beyond the Degree: Fertility Outcomes of 'First in Family' Graduates. IZA Discussion Paper No. 17216. IZA Institute for Labor Economics 2025 https://www.iza.org/publications/dp/17216/beyond-the-degree-fertility-outcomes-of-first-in-family-graduates (Aug 2024)
 
 Updated working paper:   TBA      (Apr 2025)
 
