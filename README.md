@@ -1,4 +1,4 @@
-This folder contain the Online Appendix and a replication package of 'Beyond the Degree: Fertility Outcomes of ‘First in Family’ Graduates' by Anna Adamecz, Anna Lovász and Sunčica Vujić.
+This folder contain the Online Appendix and a Stata replication package of 'Beyond the Degree: Fertility Outcomes of ‘First in Family’ Graduates' by Anna Adamecz, Anna Lovász and Sunčica Vujić.
 
 First working paper: https://www.iza.org/publications/dp/17216/beyond-the-degree-fertility-outcomes-of-first-in-family-graduates (Aug 2024)
 
