@@ -2,9 +2,9 @@ This folder contain the Online Appendix and a Stata replication package of 'Beyo
 
 First working paper: Anna Adamecz, Anna Lovász and Suncica Vujic: Beyond the Degree: Fertility Outcomes of 'First in Family' Graduates. IZA Discussion Paper No. 17216. IZA Institute for Labor Economics 2025 https://www.iza.org/publications/dp/17216/beyond-the-degree-fertility-outcomes-of-first-in-family-graduates (Aug 2024)
 
-Updated working paper:   TBA      (Apr 2025)
+Updated working paper: https://kti.krtk.hu/wp-content/uploads/2025/04/KRTKKTIWP202506.pdf (Apr 2025)
 
-Published paper: 
+Published paper: TBA
 
 
 After downloading the package, see 1_BCS70_how_to_run.do for more details. All data are available from the UK Data Service after registration, creating and account, a project, 
